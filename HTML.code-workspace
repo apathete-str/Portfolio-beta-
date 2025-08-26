@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../Users/Anshuman Ray/Desktop/Practice"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		],
+		"java.debug.settings.onBuildFailureProceed": true,
+		"files.associations": {
+			"MLTable": "yaml",
+			"utility": "cpp",
+			"vector": "cpp",
+			"span": "cpp",
+			"ostream": "cpp",
+			"iostream": "cpp",
+			"algorithm": "cpp"
+		}
+	}
+}

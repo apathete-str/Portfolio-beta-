@@ -1,0 +1,40 @@
+body
+{
+   background-image: url("abs.jpg");
+   background-size : cover;
+   font-family: monospace;
+}
+.heading
+{
+   text-align: center;
+   color: rgb(186, 27, 151);
+   background-color: rgb(17, 16, 66);
+   padding: 20px;/* how thick you want the box to be */
+   border-radius: 36px;
+   border-style: solid;
+   border-width: 10px;
+   border-color: #9e04af;
+   
+}
+.white-grad , #contact , #projects{
+   background: linear-gradient(to bottom, darkblue, rgb(161, 5, 127));
+   padding: 20px;
+   border-radius: 15px;
+   border: 2px solid black;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   margin: 20px auto;
+   max-width: 800px;
+   color: white;
+}
+a
+{
+   color: yellow;
+   text-decoration: none;
+}
+
+.footer
+{
+   background-color: darkslategrey;
+   padding: 20px;
+   color: white;
+}
